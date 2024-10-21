@@ -1,4 +1,4 @@
-# Rock Paper Scissors using Vue.js 3
+# Rock Paper Scissors using Vue.js
 
 Visit using [Rock-Paper-Scissors](https://avyukt27.github.io/Rock-Paper-Scissors-Vue/)
 
