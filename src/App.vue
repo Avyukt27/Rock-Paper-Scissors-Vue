@@ -55,7 +55,7 @@ function replay(): void {
 </script>
 
 <template>
-  <div class="bg-black text-slate-50 min-h-screen min-w-full grid grid-cols-3 grid-rows-7 gap-3">
+  <div class="bg-black text-slate-50 min-h-screen min-w-full grid grid-cols-3 grid-rows-7 gap-3 p-3">
     <ButtonComponent message="🪨" @click="setRock" :disabled="played"
       :class="{ 'hover:shadow-custom-gray': !played }" />
     <ButtonComponent message="📄" @click="setPaper" :disabled="played"
